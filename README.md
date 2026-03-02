@@ -1,2 +1,2 @@
 # SPTech
-Trabalhos e atividades realizados São Paulo Tech School
+Trabalhos e atividades realizados na São Paulo Tech School
